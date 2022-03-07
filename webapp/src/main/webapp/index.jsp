@@ -20,8 +20,8 @@
 </head>
 <body>
 <div class="header">
-  <h1>Adrian Welcome to Tennessee!!!!</h1>
-  <p>My First CICD Pipeline Completed successfully!</p>
+  <h1>The Struggle Is Real and We Shall Overcome !!!!</h1>
+  <p>My By Hook Or By Crook, This CICD MUST RUN!</p>
 </div>
 </body>
 </html>
